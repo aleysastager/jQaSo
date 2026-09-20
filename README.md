@@ -1,0 +1,2 @@
+# jQaSo
+customer publishing repository
